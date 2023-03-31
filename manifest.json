@@ -1,0 +1,11 @@
+{
+  "name": "Figma Plugin KT",
+  "id": "737805260747778092",
+  "api": "1.0.0",
+  "main": "build/distributions/figma-plugin-kt.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ]
+}
